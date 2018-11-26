@@ -1,0 +1,17 @@
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\PlaytikaCrawlerUnitTest.dll
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\PlaytikaCrawlerUnitTest.pdb
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\PlaytikaCrawlerTest.exe
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\PlaytikaCrawlerTest.pdb
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\PlaytikaCrawlerTest.exe.config
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\obj\Debug\PlaytikaCrawlerUnitTest.csprojAssemblyReference.cache
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\obj\Debug\PlaytikaCrawlerUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\obj\Debug\PlaytikaCrawlerUnitTest.csproj.CopyComplete
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\obj\Debug\PlaytikaCrawlerUnitTest.dll
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerUnitTest\obj\Debug\PlaytikaCrawlerUnitTest.pdb

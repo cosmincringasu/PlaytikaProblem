@@ -1,0 +1,7 @@
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerTest\bin\Debug\PlaytikaCrawlerTest.exe.config
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerTest\bin\Debug\PlaytikaCrawlerTest.exe
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerTest\bin\Debug\PlaytikaCrawlerTest.pdb
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerTest\obj\Debug\PlaytikaCrawlerTest.csprojAssemblyReference.cache
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerTest\obj\Debug\PlaytikaCrawlerTest.csproj.CoreCompileInputs.cache
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerTest\obj\Debug\PlaytikaCrawlerTest.exe
+C:\Users\ccringas\Source\repos\PlaytikaCrawlerTest\PlaytikaCrawlerTest\obj\Debug\PlaytikaCrawlerTest.pdb

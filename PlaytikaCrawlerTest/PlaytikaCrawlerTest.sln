@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaytikaCrawlerTest", "PlaytikaCrawlerTest\PlaytikaCrawlerTest.csproj", "{31C1C545-4FCB-447E-BBC7-037D7C6D4FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaytikaCrawlerUnitTest", "PlaytikaCrawlerUnitTest\PlaytikaCrawlerUnitTest.csproj", "{F3F7D80A-F8F4-4601-AF86-D525E70EC390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C1C545-4FCB-447E-BBC7-037D7C6D4FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C1C545-4FCB-447E-BBC7-037D7C6D4FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C1C545-4FCB-447E-BBC7-037D7C6D4FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C1C545-4FCB-447E-BBC7-037D7C6D4FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F7D80A-F8F4-4601-AF86-D525E70EC390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F7D80A-F8F4-4601-AF86-D525E70EC390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F7D80A-F8F4-4601-AF86-D525E70EC390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F7D80A-F8F4-4601-AF86-D525E70EC390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A7D52F-AB52-4F96-9870-28D56F1D30D3}
+	EndGlobalSection
+EndGlobal
